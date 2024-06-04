@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7cb73ef9c788d0b",
+        "id": "e04c16fec9fb0020",
         "type": "tabs",
         "children": [
           {
-            "id": "c859102a13aab705",
+            "id": "a51f4f3070ae4339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Other/Blender Hollandaise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67572216c7c149b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testfile.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Other/Blender Hollandaise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Other/Blender Hollandaise.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Recipes/Other/Blender Hollandaise.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -145,7 +125,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c859102a13aab705",
+  "active": "a51f4f3070ae4339",
   "lastOpenFiles": [
     "Testfile.md",
     "Recipes/Other/Blender Hollandaise.md"
