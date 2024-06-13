@@ -10,10 +10,10 @@
 - Outdoor barbecue/grill
 
 ## Cook Time
-- **Prep**: 40 mins
+- **Prep**: 30 mins
 - **Cook**: 15 mins
-- **Total**: 55 mins
-- **Yield**: 4 servings
+- **Total**: 45 mins
+- **Yield**: 4-5 servings
 
 ## Instructions
 1. **Preparation**:
