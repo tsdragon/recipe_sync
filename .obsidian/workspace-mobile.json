@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Mains/Cedar Plank Salmon.md",
+                "file": "Recipes/Other/Blender Hollandaise.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Mains/Cedar Plank Salmon.md",
+            "file": "Recipes/Other/Blender Hollandaise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Mains/Cedar Plank Salmon.md",
+            "file": "Recipes/Other/Blender Hollandaise.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Mains/Cedar Plank Salmon.md"
+            "file": "Recipes/Other/Blender Hollandaise.md"
           }
         }
       }
@@ -134,11 +134,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "024961a05cee5523",
+  "active": "17cb1d6b29e0c4af",
   "lastOpenFiles": [
+    "Recipes/Mains/Cedar Plank Salmon.md",
     "Images/PXL_20240513_000137865 Copy.jpeg",
     "Recipes/Mains",
-    "Recipes/Mains/Cedar Plank Salmon.md",
     "Testfile.md",
     "Recipes/Other/Blender Hollandaise.md"
   ]
