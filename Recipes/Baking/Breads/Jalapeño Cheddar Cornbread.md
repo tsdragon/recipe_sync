@@ -1,4 +1,4 @@
-![[Cheddar-Jalapeno-Cornbread-lift-768x576.webp]]
+![[jalapeno_cornbread.webp]]
 ## Ingredients
 - 2 cups all-purpose flour
 - 1 cup yellow cornmeal

@@ -1,4 +1,4 @@
-![[Homemade-Dinner-Buns-5 1.jpg]]
+![[hokkaido_buns.jpg]]
 ## Ingredients
 
 ### Tangzhong

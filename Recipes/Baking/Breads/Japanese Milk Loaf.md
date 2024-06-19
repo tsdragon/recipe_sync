@@ -1,4 +1,4 @@
-![[Japanese-Milk-Bread-Shokupan-I-4.jpg]]
+![[shokupan.jpg]]
 ## Ingredients
 
 ### Tangzhong

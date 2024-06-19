@@ -1,4 +1,4 @@
-![[PXL_20240513_000137865 Copy.jpeg]]
+![[smoked_salmon.jpeg]]
 ## Ingredients
 - 1 side of salmon (preferably skin-on)
 - Olive oil

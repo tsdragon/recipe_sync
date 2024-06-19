@@ -1,4 +1,4 @@
-![[Easy-Coleslaw-Recipe-Video.jpg]]
+![[coleslaw.jpg]]
 ## Ingredients
 ### Veggies
 - 1/2 head green cabbage

@@ -1,5 +1,4 @@
-![[image.jpg]]
-
+![[rice_casserole.jpg]]
 ## Ingredients
 - 2 cups uncooked wild rice
 - Approx. 2 cups vegetables of your choice (frozen broccoli, roasting or stir-fry blend, leftover roasted vegetables, etc.)

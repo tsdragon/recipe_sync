@@ -1,4 +1,4 @@
-![[pickled-red-onions-1500-12-square.jpg]]
+![[pickled_red_onions.jpg]]
 ## Ingredients
 - 1 large red onion
 - 1 1/2 cups water
