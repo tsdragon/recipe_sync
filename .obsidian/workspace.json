@@ -11,9 +11,11 @@
             "id": "cd0080b3cef97fe5",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md"
+                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md",
+                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md",
+                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md"
+                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md"
               }
             }
           }
@@ -148,13 +150,17 @@
   },
   "active": "cd0080b3cef97fe5",
   "lastOpenFiles": [
+    "Recipes/Baking/Breads/Japanese Milk Buns.md",
+    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+    "Recipes/Mains/Cedar Plank Salmon.md",
+    "Recipes/Mains",
+    "Images/PXL_20240513_000137865 Copy.jpeg",
     "Recipes/Other/Blender Hollandaise.md",
     "Recipes/Other/Pickled Red Onion.md",
     "Images/hollandaise.jpg",
     "Recipes/Sides/Tangy Coleslaw.md",
     "Index.md",
     "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
-    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Template/Template.md",
     "Jalapeño Cheddar Cornbread.md",
