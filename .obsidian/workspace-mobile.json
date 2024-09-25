@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+                "file": "Recipes/Other/Pickled Red Onion.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+            "file": "Recipes/Other/Pickled Red Onion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+            "file": "Recipes/Other/Pickled Red Onion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md"
+            "file": "Recipes/Other/Pickled Red Onion.md"
           }
         }
       }
@@ -136,11 +136,11 @@
   },
   "active": "17cb1d6b29e0c4af",
   "lastOpenFiles": [
+    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
     "Images/coleslaw.jpg",
-    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Images/shokupan.jpg",
     "Images/jalapeno_cornbread.webp",
     "Images/pickled_red_onions.jpg",
