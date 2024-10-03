@@ -11,11 +11,9 @@
             "id": "17cb1d6b29e0c4af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Recipes/Other/Pickled Red Onion.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
               }
             }
           }
@@ -86,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Other/Pickled Red Onion.md",
+            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Other/Pickled Red Onion.md",
+            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Other/Pickled Red Onion.md"
+            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
           }
         }
       }
@@ -136,8 +134,9 @@
   },
   "active": "17cb1d6b29e0c4af",
   "lastOpenFiles": [
-    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
+    "Recipes/Other/Pickled Red Onion.md",
+    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
     "Images/coleslaw.jpg",
@@ -157,7 +156,6 @@
     "/Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Mains/Cedar Plank Salmon.md",
-    "Recipes/Other/Pickled Red Onion.md",
     "Recipes/Other/Blender Hollandaise.md",
     "Recipes/Mains",
     "Testfile.md"
