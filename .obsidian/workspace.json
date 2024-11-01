@@ -11,14 +11,12 @@
             "id": "cd0080b3cef97fe5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/pancakes.png"
               },
-              "icon": "lucide-file",
-              "title": "Anything-Goes Wild Rice Casserole"
+              "icon": "lucide-image",
+              "title": "pancakes"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+                "file": "Images/pancakes.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anything-Goes Wild Rice Casserole"
+              "title": "Backlinks for pancakes"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+                "file": "Images/pancakes.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Anything-Goes Wild Rice Casserole"
+              "title": "Outgoing links from pancakes"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Mains/Anything-Goes Wild Rice Casserole.md"
+                "file": "Images/pancakes.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of Anything-Goes Wild Rice Casserole"
+              "title": "Outline of pancakes"
             }
           }
         ]
@@ -164,10 +162,14 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "cd0080b3cef97fe5",
+  "active": "6fea00ca40b2f1a5",
   "lastOpenFiles": [
-    "Recipes/Mains/Cedar Plank Salmon.md",
+    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
+    "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+    "Recipes/Breakfast/Untitled",
+    "Recipes/Breakfast",
+    "Recipes/Mains/Cedar Plank Salmon.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
