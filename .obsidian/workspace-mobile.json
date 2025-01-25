@@ -13,10 +13,10 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
+                "file": "Recipes/Breakfast/Ultra-Fluffy Pancakes.md"
               },
               "icon": "chef-hat",
-              "title": "Japanese Milk Loaf"
+              "title": "Ultra-Fluffy Pancakes"
             }
           }
         ]
@@ -46,7 +46,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#pancakes",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 0,
+    "currentTab": 1,
     "pinned": true
   },
   "right": {
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+            "file": "Images/pancakes.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+            "file": "Images/pancakes.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
+            "file": "Images/pancakes.png"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -150,9 +150,17 @@
   },
   "active": "17cb1d6b29e0c4af",
   "lastOpenFiles": [
+    "Images/pancakes.png",
+    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
+    "Index.md",
+    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+    "Recipes/Breakfast",
+    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
+    "/Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
+    "/Images/pancakes.png",
+    "/Recipes/Breakfast",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Other/Pickled Red Onion.md",
-    "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
     "Images/coleslaw.jpg",
@@ -161,8 +169,6 @@
     "Images/pickled_red_onions.jpg",
     "Images/hokkaido_buns.jpg",
     "/Images/shokupan.jpg",
-    "/Images/pickled_red_onions.jpg",
-    "/Images/jalapeno_cornbread.webp",
     "/Recipes/Sides/Tangy Coleslaw.md",
     "/Recipes/Other/Pickled Red Onion.md",
     "/Recipes/Mains/Cedar Plank Salmon.md",
@@ -170,7 +176,6 @@
     "/Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "/Recipes/Baking/Breads/Japanese Milk Buns.md",
     "/Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
-    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Mains/Cedar Plank Salmon.md",
     "Recipes/Other/Blender Hollandaise.md",
     "Recipes/Mains",
