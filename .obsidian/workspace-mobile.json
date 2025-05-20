@@ -13,10 +13,10 @@
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Breakfast/Ultra-Fluffy Pancakes.md"
+                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md"
               },
               "icon": "chef-hat",
-              "title": "Ultra-Fluffy Pancakes"
+              "title": "Japanese Milk Buns"
             }
           }
         ]
@@ -149,14 +149,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41471b1471261e1b",
+  "active": "17cb1d6b29e0c4af",
   "lastOpenFiles": [
+    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Index.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Breakfast",
-    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "/Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "/Images/pancakes.png",
     "/Recipes/Breakfast",
