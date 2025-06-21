@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2f9e8af6c72be5",
+        "id": "90dee087b831917f",
         "type": "tabs",
         "children": [
           {
-            "id": "17cb1d6b29e0c4af",
+            "id": "ef1c6c20a8dab6dc",
             "type": "leaf",
             "state": {
               "type": "recipe-view",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Buns.md"
+                "file": "Recipes/Breakfast/Ultra-Fluffy Pancakes.md"
               },
               "icon": "chef-hat",
-              "title": "Japanese Milk Buns"
+              "title": "Ultra-Fluffy Pancakes"
             }
           }
         ]
@@ -149,18 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cb1d6b29e0c4af",
+  "active": "ef1c6c20a8dab6dc",
   "lastOpenFiles": [
+    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+    "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
+    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Index.md",
-    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Breakfast",
     "/Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "/Images/pancakes.png",
     "/Recipes/Breakfast",
-    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Other/Pickled Red Onion.md",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
