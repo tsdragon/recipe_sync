@@ -11,12 +11,14 @@
             "id": "cd0080b3cef97fe5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/pancakes.png"
+                "file": "Recipes/Baking/Pastry/Untitled.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "pancakes"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,20 +155,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "recipe-grabber:Recipe Grabber": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "recipe-view:Toggle recipe view": false
+      "recipe-view:Toggle recipe view": false,
+      "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6fea00ca40b2f1a5",
+  "active": "cd0080b3cef97fe5",
   "lastOpenFiles": [
-    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
+    "Template/Template.md",
+    "Recipes/Baking/Pastry/Untitled.md",
+    "Recipes/Baking/Pastry",
     "Images/pancakes.png",
+    "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Recipes/Breakfast/Untitled",
     "Recipes/Breakfast",
@@ -186,7 +193,6 @@
     "Recipes/Other/Pickled Red Onion.md",
     "Recipes/Sides/Tangy Coleslaw.md",
     "Index.md",
-    "Template/Template.md",
     "Jalapeño Cheddar Cornbread.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
@@ -199,7 +205,6 @@
     "Recipes/Baking/Breads",
     "Welcome.md",
     "image_url.md",
-    "Template",
-    "Recipes/Baking"
+    "Template"
   ]
 }
