@@ -11,7 +11,7 @@
 1. **Preparation**:
     - Cut the cold butter into small dice-sized cubes.
     - Add the flour and butter to a stand mixer fitted with the paddle attachment.
-    - Mix until the largest pieces of butter are about pea-sized.
+    - Mix until the largest pieces of butter are about pea-sized. DO NOT OVER MIX. Squish any stubborn large pieces by had as opposed to running the mixer longer.
     - Add the ice water and mix until just combined into a shaggy dough. The dough should look dry and lumpy.
 
 2. **Chilling**:
