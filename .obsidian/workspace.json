@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Pastry/Untitled.md",
+                "file": "Template/Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Template"
             }
           }
         ]
@@ -168,8 +168,10 @@
   },
   "active": "cd0080b3cef97fe5",
   "lastOpenFiles": [
+    "Recipes/Baking/Pastry/Easy Pâte brisée.md",
+    "Recipes/Baking/Breads/Japanese Milk Buns.md",
+    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Template/Template.md",
-    "Recipes/Baking/Pastry/Untitled.md",
     "Recipes/Baking/Pastry",
     "Images/pancakes.png",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
@@ -177,8 +179,6 @@
     "Recipes/Breakfast/Untitled",
     "Recipes/Breakfast",
     "Recipes/Mains/Cedar Plank Salmon.md",
-    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
-    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Images/coleslaw.jpg",
     "Images/hollandaise.jpg",
