@@ -11,12 +11,14 @@
             "id": "ef1c6c20a8dab6dc",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Other/Pickled Red Onion.md"
+                "file": "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "chef-hat",
-              "title": "Pickled Red Onion"
+              "icon": "lucide-file",
+              "title": "Jalapeño Cheddar Cornbread"
             }
           }
         ]
@@ -139,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "recipe-view:Toggle recipe view": false,
       "recipe-grabber:Recipe Grabber": false,
       "switcher:Open quick switcher": false,
@@ -151,9 +154,10 @@
   },
   "active": "ef1c6c20a8dab6dc",
   "lastOpenFiles": [
+    "Recipes/Other/Pickled Red Onion.md",
+    "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
-    "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
@@ -162,7 +166,6 @@
     "/Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "/Images/pancakes.png",
     "/Recipes/Breakfast",
-    "Recipes/Other/Pickled Red Onion.md",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
     "Images/coleslaw.jpg",
