@@ -1,9 +1,11 @@
 ![[image.jpg]]
 
+Recipe Name
+
 ## Ingredients
-- Ingredient 1: Quantity
-- Ingredient 2: Quantity
-- Ingredient 3: Quantity
+- Quantity Ingredient 1
+- Quantity Ingredient 2
+- Quantity Ingredient 3
 - (Add more ingredients as needed)
 
 ## Cook Time
@@ -14,21 +16,21 @@
 
 ## Instructions
 1. **Preparation**:
-    - Step 1: Describe the preparation step in detail.
-    - Step 2: Describe the next preparation step.
+    - Describe the preparation step in detail.
+    - Describe the next preparation step.
     - (Add more preparation steps as needed)
-2. **Cooking**:
-    - Step 1: Describe the first cooking step.
-    - Step 2: Describe the next cooking step.
+2. **Cooking (if applicable)**:
+    - Describe the first cooking step.
+    - Describe the next cooking step.
     - (Add more cooking steps as needed)
-3. **Serving**:
-    - Step 1: Describe the first serving step.
-    - Step 2: Describe the next serving step.
+3. **Serving (if applicable)**:
+    - Describe the first serving step.
+    - Describe the next serving step.
     - (Add more serving steps as needed)
 
 ## Notes
-- Note 1: Any additional notes or tips.
-- Note 2: Any variations or substitutions.
+- Any additional notes or tips.
+- Any variations or substitutions.
 - (Add more notes as needed)
 
 ## Nutritional Information (Optional)
