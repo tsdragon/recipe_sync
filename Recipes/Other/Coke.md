@@ -30,31 +30,17 @@ Mixture A:
 - 10 ml Mixture B
 - 1 ml Mixture A (7X solution) _(adjust to taste)_
 - Cold carbonated water, to reach a final volume of 1 liter
-    
-
-## Cook Time
-
-- **Prep**: Not specified
-    
-- **Cook**: Not specified
-    
-- **Total**: Not specified
-    
-- **Yield**: 1 liter
-    
 
 ## Instructions
 
 1. **Preparation**:
-    
-    - **Make Mixture A (7X flavoring)**:
-        
+    - **Make 7X flavoring**:
         - Combine the lemon, lime, orange, tea tree, cassia cinnamon, nutmeg, and coriander essential oils with the fenchol in a container.
-            
         - _(Optional but recommended)_ Allow the combined oils to age for 1–2 days.
-            
-        - Create the 7X solution by diluting **20 ml** of the combined oil mixture to **1 liter** with food-grade alcohol.
-            
+        
+    - - **Make Mixture A (7X flavoring)**:
+	    - Create Mixture A by diluting **20 ml** of the combined oil mixture to **1 liter** with food-grade alcohol.
+	    
     - **Make Mixture B (water-based solution)**:
         
         - Add the Mixture B ingredients **one by one** into ~200 ml hot water, ensuring each ingredient fully dissolves before adding the next:  
