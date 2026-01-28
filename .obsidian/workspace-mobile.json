@@ -11,10 +11,12 @@
             "id": "e59a73ddddd372bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "recipe-view",
+              "state": {
+                "file": "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md"
+              },
+              "icon": "chef-hat",
+              "title": "Jalapeño Cheddar Cornbread"
             }
           }
         ]
