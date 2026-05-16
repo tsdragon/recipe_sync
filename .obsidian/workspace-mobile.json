@@ -11,12 +11,14 @@
             "id": "e59a73ddddd372bd",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md"
+                "file": "Recipes/Other/Pickled Red Onion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "chef-hat",
-              "title": "Jalapeño Cheddar Cornbread"
+              "icon": "lucide-file",
+              "title": "Pickled Red Onion"
             }
           }
         ]
@@ -152,6 +154,7 @@
   },
   "active": "e59a73ddddd372bd",
   "lastOpenFiles": [
+    "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "/Recipes/Other/Coke.md",
     "Recipes/Other/Coke.md",
     "/Recipes/Other",
@@ -161,7 +164,6 @@
     "/Recipes/Baking",
     "/Recipes",
     "Untitled.base",
-    "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Recipes/Baking/Pastry/Easy Pâte brisée.md",
     "/Recipes/Baking/Pastry/Easy Pâte brisée.md",
     "/Template/Template.md",
