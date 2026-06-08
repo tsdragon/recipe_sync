@@ -11,13 +11,11 @@
             "id": "e59a73ddddd372bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
-                "mode": "source",
-                "source": false
+                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
               },
-              "icon": "lucide-file",
+              "icon": "chef-hat",
               "title": "Japanese Milk Loaf"
             }
           }
