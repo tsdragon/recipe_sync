@@ -11,12 +11,14 @@
             "id": "e59a73ddddd372bd",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md"
+                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "chef-hat",
-              "title": "Jalapeño Cheddar Cornbread"
+              "icon": "lucide-file",
+              "title": "Japanese Milk Loaf"
             }
           }
         ]
@@ -152,17 +154,23 @@
   },
   "active": "e59a73ddddd372bd",
   "lastOpenFiles": [
-    "Recipes/Other/Pickled Red Onion.md",
     "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
-    "/Recipes/Other/Coke.md",
+    "Recipes/Baking/Breads/Japanese Milk Buns.md",
+    "Recipes/Other/Bulgogi sauce.md",
     "Recipes/Other/Coke.md",
+    "Untitled.base",
+    "/Recipes/Other/Bulgogi sauce.md",
     "/Recipes/Other",
+    "/Recipes",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "Template/Template.md",
+    "Recipes/Other/Pickled Red Onion.md",
+    "/Recipes/Other/Coke.md",
     "/Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "/Recipes/Baking/Breads/Japanese Milk Buns.md",
     "/Recipes/Baking/Breads",
     "/Recipes/Baking",
-    "/Recipes",
-    "Untitled.base",
     "Recipes/Baking/Pastry/Easy Pâte brisée.md",
     "/Recipes/Baking/Pastry/Easy Pâte brisée.md",
     "/Template/Template.md",
@@ -173,14 +181,12 @@
     "Recipes/Baking/Pastry",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
-    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Index.md",
     "Recipes/Breakfast",
     "/Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
     "/Images/pancakes.png",
-    "/Recipes/Breakfast",
     "Images/smoked_salmon.jpeg",
     "Images/rice_casserole.jpg",
     "Images/coleslaw.jpg",
@@ -193,9 +199,6 @@
     "/Recipes/Other/Pickled Red Onion.md",
     "/Recipes/Mains/Cedar Plank Salmon.md",
     "/Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
-    "/Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
-    "Recipes/Mains/Cedar Plank Salmon.md",
-    "Recipes/Other/Blender Hollandaise.md",
-    "Testfile.md"
+    "/Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md"
   ]
 }

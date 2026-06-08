@@ -10,7 +10,7 @@
 - 300g flour
 - 15g milk powder
 - 40g sugar
-- 7g salt
+- 6g salt
 - 1 tbsp yeast
 - 115g whole milk
 - 1 large egg
