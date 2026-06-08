@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+                "file": "Recipes/Other/Blender Hollandaise.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Japanese Milk Loaf"
+              "title": "Blender Hollandaise"
             }
           }
         ]
@@ -168,14 +168,15 @@
   },
   "active": "cd0080b3cef97fe5",
   "lastOpenFiles": [
-    "Recipes/Baking/Breads/Japanese Milk Buns.md",
+    "Template/Template.md",
     "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+    "Untitled.base",
+    "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Other/Coke.md",
     "Recipes/Other/Healthy Hearty Chicken Pot Pie Filling.md",
     "Recipes/Other/Blender Hollandaise.md",
     "Recipes/Baking/Pastry/Easy Pâte brisée.md",
     "Recipes/Other/Pickled Red Onion.md",
-    "Template/Template.md",
     "Recipes/Baking/Pastry",
     "Images/pancakes.png",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
@@ -206,7 +207,6 @@
     "Images",
     "Recipes/Baking/Breads",
     "Welcome.md",
-    "image_url.md",
-    "Template"
+    "image_url.md"
   ]
 }
