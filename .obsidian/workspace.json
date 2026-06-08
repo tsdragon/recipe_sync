@@ -93,7 +93,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -123,7 +123,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -135,13 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/pancakes.png"
+                "file": "Images/pancakes.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of pancakes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,10 +166,10 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6fea00ca40b2f1a5",
+  "active": "74e0b8bef875f20d",
   "lastOpenFiles": [
-    "Untitled.base",
     "Untitled.canvas",
+    "Untitled.base",
     "Recipes/Other/Bulgogi sauce.md",
     "Recipes/Other/Coke.md",
     "Recipes/Other/Blender Hollandaise.md",
