@@ -11,10 +11,14 @@
             "id": "cad847399988a539",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japanese Milk Loaf"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "6fea00ca40b2f1a5",
+  "active": "cad847399988a539",
   "lastOpenFiles": [
     "Untitled.base",
     "Untitled.canvas",
