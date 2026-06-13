@@ -11,12 +11,14 @@
             "id": "e59a73ddddd372bd",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Breads/Japanese Milk Loaf.md"
+                "file": "Recipes/Other/Bulgogi sauce.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "chef-hat",
-              "title": "Japanese Milk Loaf"
+              "icon": "lucide-file",
+              "title": "Bulgogi sauce"
             }
           }
         ]
@@ -95,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
+            "file": "Recipes/Other/Bulgogi sauce.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,6 +154,7 @@
   },
   "active": "e59a73ddddd372bd",
   "lastOpenFiles": [
+    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Recipes/Baking/Breads/Jalapeño Cheddar Cornbread.md",
     "Recipes/Baking/Breads/Japanese Milk Buns.md",
     "Recipes/Other/Bulgogi sauce.md",
@@ -178,7 +181,6 @@
     "/Recipes/Baking/Pastry",
     "Recipes/Baking/Pastry",
     "Recipes/Breakfast/Ultra-Fluffy Pancakes.md",
-    "Recipes/Baking/Breads/Japanese Milk Loaf.md",
     "Images/pancakes.png",
     "Recipes/Mains/Anything-Goes Wild Rice Casserole.md",
     "Index.md",
